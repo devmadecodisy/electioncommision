@@ -1,0 +1,23 @@
+{
+  "races": [
+    {
+      "id": "race-1",
+      "office": "Mayor — Central City",
+      "candidates": [
+        { "name": "Alex Johnson", "party": "Independent", "votes": 12456 },
+        { "name": "Maria Singh", "party": "Green", "votes": 11023 },
+        { "name": "James Lee", "party": "Democratic", "votes": 9534 }
+      ],
+      "reporting": 72
+    },
+    {
+      "id": "race-2",
+      "office": "Governor — Statewide",
+      "candidates": [
+        { "name": "Patricia Gomez", "party": "Democratic", "votes": 512345 },
+        { "name": "Robert King", "party": "Republican", "votes": 498120 }
+      ],
+      "reporting": 88
+    }
+  ]
+}
